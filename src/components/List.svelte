@@ -69,6 +69,7 @@
 
 <style lang="scss">
 	.list {
+		word-break: break-all;
 	  // font 관련 속성들은 상속(inherit)되기 때문에,
 	  // .list의 자식 요소들에 영향을 주지 않기 위해,
 	  // white-space 속성 값을 여기서 초기화합니다.
